@@ -1,0 +1,13 @@
+_unsloth_sentencepiece_temp/
+qwen14b_lora/
+unsloth_compiled_cache/ 
+hf_models/
+
+
+.ipynb_checkpoints/
+
+
+agents/hf_cache/
+agents/unsloth_compiled_cache/
+agents/__pycache__/
+        
